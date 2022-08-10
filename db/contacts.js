@@ -33,7 +33,7 @@ async function addContact(name, email, phone) {
 }
 
 
-module.exportsn = {
+module.exports = {
   listContacts,
   getContactById,
   removeContact,
